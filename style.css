@@ -9,7 +9,6 @@ body {
 
 main {
   box-sizing: border-box;
-  margin: 2rem;
 }
 
 img {
@@ -28,7 +27,6 @@ header {
   top: 0;
   padding: 25px;
   background-color: black;
-  margin: 2rem;
   opacity: 0.7;
 }
 
